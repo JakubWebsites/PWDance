@@ -1,7 +1,0 @@
-.header{grid-column: 2/3; padding: 2rem 5rem 0 5rem; margin: 5rem 0 15rem 0;}
-
-.header__link{display: grid; grid-template-columns: repeat(2, auto);}
-
-.header__img{}
-
-.header__title{padding: 4rem 0 0 0;}

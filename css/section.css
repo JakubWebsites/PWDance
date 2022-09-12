@@ -1,9 +1,0 @@
-.section{grid-column: 2/3; margin: 0 0 15rem 0; padding: 0 4rem 2rem 4rem;}
-
-.section__link{display: grid; grid-gap: 2rem; text-align: center;
-	grid-template-rows: repeat(3, auto); grid-template-columns: 1fr 1fr;}
-	
-.section__title{grid-column: 1/3; grid-row: 1/2;}
-.section__img{grid-column: 1/2; grid-row: 2/3; width: 100%;}
-.section__text{grid-column: 2/3; grid-row: 2/3; text-align: left;}
-.section__more{grid-column: 1/3; grid-row: 3/4;}
